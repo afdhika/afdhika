@@ -1,5 +1,5 @@
 <!-- ![Afdhika Syahputra](img/github-header-banner.png) -->
-### I’m Afdhika Syahputra — a web developer passionate about building modern applications with Laravel & Filament. Skilled in backend & frontend development, I enjoy turning ideas into functional, user-friendly solutions. Always learning, sharing, and exploring new technologies 🚀
+### I’m Afdhika Syahputra — a web developer passionate about building modern applications with Laravel & Filament. Skilled in backend & frontend development, I enjoy turning ideas into functional, user-friendly solutions. Always learning, sharing, and exploring new technologies.
 
 
 ### 🌐 Socials:
