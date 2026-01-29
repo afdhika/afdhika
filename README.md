@@ -1,17 +1,28 @@
 <!-- Header Banner -->
-<!-- ![Afdhika Syahputra](img/github-header-banner.png) -->
+<div align="center">
+  <img src="https://github.com/afdhikasyahputra/afdhikasyahputra/raw/main/img/github-header-banner.png" alt="Afdhika Syahputra" width="100%">
+</div>
 
-# Hi, I’m Afdhika Syahputra 👋  
-### Web Developer | Laravel & Filament Enthusiast
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=FF2D20&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Hi,+I'm+Afdhika+Syahputra+👋;Web+Developer+%7C+Laravel+%26+Filament+Enthusiast" alt="Typing SVG" />
+</div>
 
 I’m a web developer passionate about building **modern, scalable, and user-friendly applications** using **Laravel & Filament**.  
 Comfortable working on **backend & frontend**, turning ideas into real products.  
 Always learning, sharing, and exploring new technologies.
 
+<div align="center">
+  <img src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" width="300" alt="Coding GIF">
+</div>
+
 ## 🌐 Connect with Me
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/afdhika_syahputra)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/afdhika-syahputra)
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:afdhikasyahputra)
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=afdhikasyahputra&style=for-the-badge&color=FF2D20" alt="Profile views">
+</div>
 
 ## 💻 Tech Stack
 
@@ -54,3 +65,9 @@ Always learning, sharing, and exploring new technologies.
 ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
+
+---
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=afdhikasyahputra&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF2D20&icon_color=FF2D20&text_color=FFFFFF" alt="GitHub Stats">
+</div>
