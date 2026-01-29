@@ -4,9 +4,9 @@
 # Hi, I’m Afdhika Syahputra 👋  
 ### Web Developer | Laravel & Filament Enthusiast
 
-I’m a web developer passionate about building modern, scalable, and user-friendly applications — from web systems to monitoring and logging solutions.
-Experienced with Laravel & Filament, and hands-on in building mini SIEM and network monitoring tools.
-Enjoy working across backend, frontend, and system-level problem solving, always learning and exploring new technologies.
+I’m a web developer passionate about building modern, scalable, and user-friendly applications — from web systems to **monitoring and logging solutions**.
+Experienced with **Laravel & Filament**, and hands-on in building **mini SIEM and network monitoring tools**.
+Enjoy working across **backend, frontend, and system-level problem solving**, always learning and exploring new technologies.
 
 
 
