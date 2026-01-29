@@ -8,14 +8,14 @@ I’m a web developer passionate about building **modern, scalable, and user-fri
 Comfortable working on **backend & frontend**, turning ideas into real products.  
 Always learning, sharing, and exploring new technologies.
 
----
+
 
 ## 🌐 Connect with Me
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/afdhika_syahputra)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/afdhika-syahputra)
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:afdhikasyahputra)
 
----
+
 
 ## 💻 Tech Stack
 
