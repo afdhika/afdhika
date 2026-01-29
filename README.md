@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=FF2D20&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Hi,+I'm+Afdhika+Syahputra+👋;Web+Developer+%7C+Laravel+%26+Filament+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=FF2D20&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Hi,+I'm+Afdhika+Syahputra;Web+Developer+%7C+Laravel+%26+Filament+Enthusiast" alt="Typing SVG" />
 </div>
 
 I’m a web developer passionate about building **modern, scalable, and user-friendly applications** using **Laravel & Filament**.  
