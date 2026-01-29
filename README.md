@@ -72,3 +72,11 @@ Always learning, sharing, and exploring new technologies.
 ![Trophies](https://github-profile-trophy.vercel.app/?username=afdhika&theme=radical&no-bg=true)
 
 ---
+
+<div align="center">
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=afdhikasyahputra&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF2D20&icon_color=FF2D20&text_color=FFFFFF"
+    width="420"
+    alt="GitHub Stats"
+  />
+</div>
