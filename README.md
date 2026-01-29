@@ -58,19 +58,3 @@ Always learning, sharing, and exploring new technologies.
 ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
-
----
-
-## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=afdhika&theme=tokyonight&show_icons=true)
-![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=afdhika&theme=tokyonight)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=afdhika&layout=compact&theme=tokyonight)
-
----
-
-## 🏆 GitHub Trophies
-![Trophies](https://github-profile-trophy.vercel.app/?username=afdhika&theme=radical&no-bg=true)
-
----
-
-<img src="https://raw.githubusercontent.com/afdhika/afdhika/output/snake.svg" alt="Snake animation" />
