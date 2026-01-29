@@ -94,6 +94,12 @@ Currently exploring:
 
 <div align="center">
 
+## 🎬 Coding Session
+
+![Coding GIF](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExb3FqamZidjZzNnR0b2lqZ3J1b2c1cGxuZ3FqZ2p6Z2NqZmF6a3ZvbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3oKIPEqDGUULpEU0aI/giphy.gif)
+
+---
+
 ## 🐍 Contribution Snake
 
 ![Snake animation](https://raw.githubusercontent.com/afdhika/afdhika/output/snake.svg)
