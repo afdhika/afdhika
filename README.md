@@ -1,15 +1,74 @@
-<!-- ![Afdhika Syahputra](img/github-header-banner.png) -->
+<!-- Header Banner -->
+<div align="center">
+  <img 
+    src="https://github.com/afdhikasyahputra/afdhikasyahputra/raw/main/img/github-header-banner.png" 
+    alt="Afdhika Syahputra"
+    width="100%"
+  />
+</div>
 
-### I’m Afdhika Syahputra — a web developer passionate about building modern applications with Laravel & Filament.
+<br/>
 
-Skilled in backend & frontend development, I enjoy turning ideas into functional, user-friendly solutions.  
-Always learning, sharing, and exploring new technologies.
+<!-- Typing Intro -->
+<div align="center">
+  <img 
+    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=FF2D20&center=true&vCenter=true&multiline=true&width=700&height=90&lines=Hi,+I'm+Afdhika+Syahputra+👋;Web+Developer+%7C+Laravel+%26+Filament+Enthusiast" 
+    alt="Typing SVG"
+  />
+</div>
 
-### 🌐 Socials:
+<br/>
 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/afdhika_syahputra)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/afdhika-syahputra)
-[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:afdhikasyahputra)
+<!-- Short Bio -->
+<p align="center">
+  I’m a web developer passionate about building <b>modern, scalable, and user-friendly applications</b><br/>
+  using <b>Laravel & Filament</b>.<br/>
+  Comfortable working on <b>backend & frontend</b>, turning ideas into real products.<br/>
+  Always learning, sharing, and exploring new technologies.
+</p>
+
+<br/>
+
+<!-- Coding GIF -->
+<div align="center">
+  <img 
+    src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif"
+    width="220"
+    alt="Coding GIF"
+  />
+</div>
+
+<br/>
+
+---
+
+## 🌐 Connect with Me
+<p align="center">
+  <a href="https://instagram.com/afdhika_syahputra">
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" />
+  </a>
+  <a href="https://linkedin.com/in/afdhika-syahputra">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:afdhikasyahputra">
+    <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" />
+  </a>
+</p>
+
+<br/>
+
+<!-- Profile Views -->
+<div align="center">
+  <img 
+    src="https://komarev.com/ghpvc/?username=afdhikasyahputra&style=for-the-badge&color=FF2D20"
+    alt="Profile views"
+  />
+</div>
+
+---
+
+## 💻 Tech Stack
+
 
 ### 💻 Tech Stack:
 
@@ -49,6 +108,8 @@ Always learning, sharing, and exploring new technologies.
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+
+---
 
 ### 📊 GitHub Stats:
 
